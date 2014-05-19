@@ -1,6 +1,6 @@
 = WiceGrid
 
-Version:: 3.4.2
+Version:: 3.4.3
 Author::  Yuri Leikind
 Sources:: https://github.com/leikind/wice_grid/
 Examples online:: http://wicegrid.herokuapp.com
@@ -89,7 +89,7 @@ Beginning from version 3.2 only jQuery is supported.
 
 Add the following to your Gemfile:
 
-  gem "wice_grid", '3.4.2'
+  gem "wice_grid", '3.4.3'
 
 and run the <tt>bundle</tt> command.
 
